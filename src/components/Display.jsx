@@ -1,5 +1,3 @@
-
-
 const Display = ({start})=>{
 return <>
    <textarea type='text'

@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@jridgewell/set-array": "^1.2.1",
+    "cross-env": "^7.0.3",
     "mathjs": "^14.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
